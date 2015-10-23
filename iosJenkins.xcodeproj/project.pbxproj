@@ -418,6 +418,7 @@
 				DC8A12EE1BDA2E7100C71468 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DC8A12EF1BDA2E7100C71468 /* Build configuration list for PBXNativeTarget "iosJenkinsTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +427,7 @@
 				DC8A12F11BDA2E7100C71468 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
