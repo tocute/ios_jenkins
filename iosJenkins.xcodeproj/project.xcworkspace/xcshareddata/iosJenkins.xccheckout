@@ -14,11 +14,11 @@
 		<string>https://github.com/tocute/ios_jenkins.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>iosJenkins/iosJenkins.xcodeproj</string>
+	<string>iosJenkins.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>4C6B349B3482FA544E152B9D614F84304BB28C22</key>
-		<string>../../..</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/tocute/ios_jenkins.git</string>

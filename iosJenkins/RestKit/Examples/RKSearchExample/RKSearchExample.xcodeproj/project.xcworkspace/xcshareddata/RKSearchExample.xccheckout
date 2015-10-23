@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9CD7F9FD-EFDB-442C-AF81-E83E83AFDD6D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RKSearchExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4C6B349B3482FA544E152B9D614F84304BB28C22</key>
+		<string>https://github.com/tocute/ios_jenkins.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iosJenkins/RestKit/Examples/RKSearchExample/RKSearchExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4C6B349B3482FA544E152B9D614F84304BB28C22</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tocute/ios_jenkins.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4C6B349B3482FA544E152B9D614F84304BB28C22</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4C6B349B3482FA544E152B9D614F84304BB28C22</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios_jenkins</string>
+		</dict>
+	</array>
+</dict>
+</plist>
