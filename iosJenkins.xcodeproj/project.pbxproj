@@ -24,13 +24,6 @@
 			remoteGlobalIDString = DC8A12C81BDA2E7100C71468;
 			remoteInfo = iosJenkins;
 		};
-		DC8C5B261BDA40D10043361A /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = DC8C5B221BDA40D10043361A /* RestKit.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 25160D1614564E810060A5C5;
-			remoteInfo = RestKit;
-		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
@@ -47,7 +40,6 @@
 		DC8A12E21BDA2E7100C71468 /* iosJenkinsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iosJenkinsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC8A12E71BDA2E7100C71468 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DC8A12E81BDA2E7100C71468 /* iosJenkinsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iosJenkinsTests.m; sourceTree = "<group>"; };
-		DC8C5B221BDA40D10043361A /* RestKit.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RestKit.xcodeproj; path = iosJenkins/RestKit/RestKit.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,7 +63,6 @@
 		DC8A12C01BDA2E7100C71468 = {
 			isa = PBXGroup;
 			children = (
-				DC8C5B221BDA40D10043361A /* RestKit.xcodeproj */,
 				DC8A12CB1BDA2E7100C71468 /* iosJenkins */,
 				DC8A12E51BDA2E7100C71468 /* iosJenkinsTests */,
 				DC8A12CA1BDA2E7100C71468 /* Products */,
@@ -126,14 +117,6 @@
 				DC8A12E71BDA2E7100C71468 /* Info.plist */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		DC8C5B231BDA40D10043361A /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				DC8C5B271BDA40D10043361A /* libRestKit.a */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -203,12 +186,6 @@
 			mainGroup = DC8A12C01BDA2E7100C71468;
 			productRefGroup = DC8A12CA1BDA2E7100C71468 /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = DC8C5B231BDA40D10043361A /* Products */;
-					ProjectRef = DC8C5B221BDA40D10043361A /* RestKit.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				DC8A12C81BDA2E7100C71468 /* iosJenkins */,
@@ -216,16 +193,6 @@
 			);
 		};
 /* End PBXProject section */
-
-/* Begin PBXReferenceProxy section */
-		DC8C5B271BDA40D10043361A /* libRestKit.a */ = {
-			isa = PBXReferenceProxy;
-			fileType = archive.ar;
-			path = libRestKit.a;
-			remoteRef = DC8C5B261BDA40D10043361A /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		DC8A12C71BDA2E7100C71468 /* Resources */ = {
